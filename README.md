@@ -17,7 +17,7 @@
   ```
   You can do it all in one command.
   ```
-  git clone https://github.com/mfr-fr/sms-sender.git && cd sms-sender && pip install -r requirements.txt && python sms-sender.py
+  git clone https://github.com/tucommenceapousser/sms-sender.git && cd sms-sender && pip install -r requirements.txt && python sms-sender.py
   ```
 
 - Windows 
