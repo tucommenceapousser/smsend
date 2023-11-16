@@ -8,6 +8,10 @@
 -----
 <h2><p align="center">🖥️Installation🖥️</p></h2>
 
+- Replit
+[![Run on Replit](https://replit.com/badge/github/tucommenceapousser/smsend)](smsend)
+
+
 - Linux ( Termux, Kali linux...) 
   ```
   git clone https://github.com/tucommenceapousser/sms-sender.git
