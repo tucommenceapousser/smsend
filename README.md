@@ -10,7 +10,7 @@
 
 - Replit
   Click on this button
-\n
+  
 [![Run on Replit](https://replit.com/badge/github/tucommenceapousser/smsend)](smsend)
 ```
   pip install -r requirements.txt
