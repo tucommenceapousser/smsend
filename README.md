@@ -3,8 +3,8 @@
 <p align="center">
 <img src="https://static-trkn.replit.app/smsend.jpg", width="500", height="500">
 </p>
-<p align="center">​⭐​PLEASE PUT A START​⭐​</p>
-
+<p align="center">​😈dont touch that​👿​</p>
+<p align="center">​😈at your own risk👿​</p>
 -----
 <h2><p align="center">🖥️Installation🖥️</p></h2>
 
