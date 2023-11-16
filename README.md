@@ -60,5 +60,5 @@
 <br><br>
 
 ## <h2><p align="center">✏️Author✏️</p></h2>
-* **MFR** - [Github](https://github.com/mfr-fr)
+* **trhacknon** - [Github](https://github.com/mfr-fr)
 
