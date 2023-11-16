@@ -9,19 +9,23 @@
 <h2><p align="center">🖥️Installation🖥️</p></h2>
 
 - Replit
+  Click on this button
 [![Run on Replit](https://replit.com/badge/github/tucommenceapousser/smsend)](smsend)
-
+```
+  pip install -r requirements.txt
+  python launch.py
+  ```
 
 - Linux ( Termux, Kali linux...) 
   ```
   git clone https://github.com/tucommenceapousser/sms-sender.git
   cd sms-sender
   pip install -r requirements.txt
-  python sms-sender.py
+  python launch.py
   ```
   You can do it all in one command.
   ```
-  git clone https://github.com/tucommenceapousser/sms-sender.git && cd sms-sender && pip install -r requirements.txt && python sms-sender.py
+  git clone https://github.com/tucommenceapousser/sms-sender.git && cd sms-sender && pip install -r requirements.txt && python launch.py
   ```
 
 - Windows 
