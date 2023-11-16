@@ -6,6 +6,8 @@
 <p align="center">​😈dont touch that​👿​</p>
 <p align="center">​😈at your own risk👿​</p>
 -----
+<h2><p align="center">Works best with root access</p></h2>
+
 <h2><p align="center">🖥️Installation🖥️</p></h2>
 
 - Replit
