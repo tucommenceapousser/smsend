@@ -10,5 +10,5 @@ channel = "stable-23_05"
 language = "python3"
 
 [deployment]
-run = ["sh", "-c", "python sms-sender.py"]
+run = ["sh", "-c", "python launch.py"]
 deploymentTarget = "cloudrun"
