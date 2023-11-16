@@ -67,6 +67,6 @@
 * ***I do not encourage you to use this script for malicious purposes***
 <br><br>
 
-## <h2><p align="center">✏️Author✏️</p></h2>
+## <h2><p align="center">✏️Modder✏️</p></h2>
 * **trhacknon** - [Github](https://github.com/mfr-fr)
 
